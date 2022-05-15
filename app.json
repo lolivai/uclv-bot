@@ -3,7 +3,7 @@
     "env": {
         "TELEGRAM_TOKEN": {
             "description": "el token del bot de telegram que te da https://t.me/BotFather",
-            "value": "5379054642:AAFP0vovKwVnuv9iDIXeMz3IGJCAjUpU7Rk"
+            "value": ""
         }
     }
 }
